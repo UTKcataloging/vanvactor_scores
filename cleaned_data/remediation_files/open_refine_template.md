@@ -25,6 +25,8 @@
 {{if(isBlank(cells['first_line'].value), '', '<note type="First line">' + cells['first_line'].value + '</note>')}}
 {{if(isBlank(cells['name_composer'].value), '', '<name valueURI="http://id.loc.gov/authorities/names/n82001311"><namePart>Van Vactor, David, 1906-1994</namePart><role>
 <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm></role></name>')}}
+{{if(isBlank(cells['name_composer_arranger'].value), '', '<name valueURI="http://id.loc.gov/authorities/names/n82001311"><namePart>' + cells['name_composer_arranger'].value + '</namePart><role>
+<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/arr">Arranger</roleTerm></role></name>')}}
 {{if(isBlank(cells['name_lyricist'].value), '', '<name><namePart>' + cells['name_lyricist'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm></role></name>')}}
 {{if(isBlank(cells['name_lyricist_2'].value), '', '<name><namePart>' + cells['name_lyricist_2'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm></role></name>')}}
 {{if(isBlank(cells['name_lyricist_3'].value), '', '<name><namePart>' + cells['name_lyricist_3'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm></role></name>')}}
@@ -49,7 +51,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">{{cells['form_aat'].value}}</form><internetMediaType>pdf</internetMediaType></physicalDescription>
 <typeOfResource>{{cells['item_type'].value}}</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>{{cells['digital_collection'].value}}</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>{{cells['archival_collection'].value}}</title></titleInfo><identifier>{{cells['collection_identifier'].value}}</identifier><location><url>{{cells['ARK'].value}}</url></location></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>{{cells['archival_collection'].value}}</title></titleInfo><identifier>{{cells['collection_identifier'].value}}</identifier></relatedItem>
 <location><physicalLocation valueURI="{{cells['repository_URI'].value}}">{{cells['repository'].value}}</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="{{cells['recordsource_URI'].value}}">{{cells['record_source'].value}}</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="{{cells['rights_URI'].value}}">{{cells['rights'].value}}</accessCondition>
