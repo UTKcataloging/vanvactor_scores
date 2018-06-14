@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003979_000215</identifier>
+   <titleInfo supplied="yes">
+      <title>Duos nos. 1-10 from Music for woodwinds</title>
+   </titleInfo>
+   <abstract>Pencil scores with pen markings.</abstract>
+   <note type="instrumentation">For piccolo, flute, oboe, clarinet, horn, and bassoon.</note>
+   <originInfo>
+      <dateCreated qualifier="approximate">1966-1967</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   point="start"
+                   keyDate="yes">1966</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   point="end"
+                   keyDate="yes">1967</dateCreated>
+   </originInfo>
+   <name valueURI="http://id.loc.gov/authorities/names/n82001311">
+      <namePart>Van Vactor, David, 1906-1994</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
+      <topic>Music</topic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>Music for woodwinds</title>
+      </titleInfo>
+      <identifier type="catalog">M063</identifier>
+   </relatedItem>
+   <note type="handwritten">Wed Feb 02 00:00:00 EST 1966</note>
+   <note type="handwritten">Sat Feb 12 00:00:00 EST 1966</note>
+   <note type="handwritten">Tues. June 28, '66</note>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
+      <internetMediaType>pdf</internetMediaType>
+   </physicalDescription>
+   <typeOfResource>notated music</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Van Vactor Music Collection </title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Van Vactor Papers</title>
+      </titleInfo>
+      <identifier>MS.1942</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

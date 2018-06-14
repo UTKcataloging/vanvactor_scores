@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003979_000239</identifier>
+   <titleInfo>
+      <title>The new light prologue and three canticles for Christmas</title>
+   </titleInfo>
+   <abstract>Published bound (spiral bound) ink score with pencil markings.</abstract>
+   <tableOfContents>Prologue - Canticle I - Canticle II - Canticle III</tableOfContents>
+   <note type="instrumentation">For soprano, alto, tenor, bass, narrators, and organ or piano.</note>
+   <originInfo>
+      <dateCreated qualifier="approximate">1954</dateCreated>
+      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1954</dateCreated>
+      <publisher>American Music Edition</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</placeTerm>
+      </place>
+   </originInfo>
+   <note type="First line">God who commanded the light to shine out of darkness hath shined in our hearts.</note>
+   <name valueURI="http://id.loc.gov/authorities/names/n82001311">
+      <namePart>Van Vactor, David, 1906-1994</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
+      <topic>Music</topic>
+   </subject>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>The new light</title>
+      </titleInfo>
+      <identifier type="catalog">M066</identifier>
+   </relatedItem>
+   <note type="handwritten">Soli Deo Gloria!</note>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
+      <internetMediaType>pdf</internetMediaType>
+   </physicalDescription>
+   <typeOfResource>notated music</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Van Vactor Music Collection </title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Van Vactor Papers</title>
+      </titleInfo>
+      <identifier>MS.1942</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
