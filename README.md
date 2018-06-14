@@ -12,28 +12,26 @@ Metadata for the David Van Vactor Music Collection (scores).
 |-- cleaned_data
     |-- modsxml
         |-- batch1    
-            |-- 0012_003979_000001_0124 to 0012_003979_000001_0160
+            |-- 0012_003979_000001_000124 to 0012_003979_000001_000160
         |-- batch2
-		    |-- 0012_003979_000001_0161 to 0012_003979_000001_0253
+		    |-- 0012_003979_000001_000161 to 0012_003979_000001_000253
         |-- batch3		    
-            |-- 0012_003979_000002_0--- to 0012_003979_000002_0---
+            |-- 0012_003979_000002_000--- to 0012_003979_000002_000---
         |-- batch4            
-            |-- 0012_003979_000002_0--- to 0012_003979_000002_0---
+            |-- 0012_003979_000002_000--- to 0012_003979_000002_000---
         |-- batch5            
-		    |-- 0012_003979_000002_0--- to 0012_003979_000002_0---
+		    |-- 0012_003979_000002_000--- to 0012_003979_000002_000---
         |-- batch6		    
-            |-- 0012_003979_000002_0--- to 0012_003979_000002_0---
+            |-- 0012_003979_000002_000--- to 0012_003979_000002_000---
         |-- batch7        
-		    |-- 0012_003979_000002_0--- to 0012_003979_000002_0---
+		    |-- 0012_003979_000002_000--- to 0012_003979_000002_000---
         |-- batch8	
-            |-- 0012_003979_000002_0--- to 0012_003979_000002_0---       
+            |-- 0012_003979_000002_000--- to 0012_003979_000002_000---       
     |-- remediation_files
-        |-- final_cleaned.csv
-        |-- final_export_of_project.openrefine.tar.gz
-        |-- oxygen_project_file.xpr
-        |-- all_records_as_a_MODS_collection.mods.xml
-        |-- xml_export_of_open_refine_project.xml
-	      |-- open_refine_template.md
+        |-- vanvactor.openrefine.tar.gz
+        |-- vanvactor.xpr
+        |-- modscollection.xml
+	|-- open_refine_template.md
         |-- splitter.xsl
 |-- original_data
     |-- VanVactorScores.csv
