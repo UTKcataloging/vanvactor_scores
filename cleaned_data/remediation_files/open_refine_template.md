@@ -41,7 +41,46 @@
 {{if(isBlank(cells['name_dedicatee_2'].value), '', '<name><namePart>' + cells['name_dedicatee'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/dte">Dedicatee</roleTerm></role></name>')}}
 {{if(isBlank(cells['name_editor'].value), '', '<name><namePart>' + cells['name_editor'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt">Editor</roleTerm></role></name>')}}
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762"><topic>Music</topic></subject>
+{{if(isBlank(cells['subject_topic'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_URI'].value + '"><topic>' + cells['subject_topic'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_topic_2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_2_URI'].value + '"><topic>' + cells['subject_topic_2'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_topic_3'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_3_URI'].value + '"><topic>' + cells['subject_topic_3'].value + '</topic></subject>')}}
+
+{{if(isBlank(cells['subject_geographic'].value), '', '<subject authority="naf" valueURI="' + cells['subject_geographic_URI'].value + '"><geographic>' + cells['subject_geographic'].value + '</geographic></subject>')}}
+
+{{if(isBlank(cells['genre'].value), '', '<genre authority="lcgft" valueURI="' + cells['genre_URI'].value + '">' + cells['genre'].value + '</genre>')}}
+{{if(isBlank(cells['genre_2'].value), '', '<genre authority="lcgft" valueURI="' + cells['genre_2_URI'].value + '">' + cells['genre_2'].value + '</genre>')}}
+{{if(isBlank(cells['genre_3'].value), '', '<genre authority="lcgft" valueURI="' + cells['genre_3_URI'].value + '">' + cells['genre_3'].value + '</genre>')}}
+{{if(isBlank(cells['genre_4'].value), '', '<genre authority="lcgft" valueURI="' + cells['genre_4_URI'].value + '">' + cells['genre_4'].value + '</genre>')}}
+
+{{if(isBlank(cells['instrumentation'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_URI'].value + '">' + cells['instrumentation'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_2'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_2_URI'].value + '">' + cells['instrumentation_2'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_3'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_3_URI'].value + '">' + cells['instrumentation_3'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_4'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_4_URI'].value + '">' + cells['instrumentation_4'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_5'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_5_URI'].value + '">' + cells['instrumentation_5'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_6'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_6_URI'].value + '">' + cells['instrumentation_6'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_7'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_7_URI'].value + '">' + cells['instrumentation_7'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_8'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_8_URI'].value + '">' + cells['instrumentation_8'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_9'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_9_URI'].value + '">' + cells['instrumentation_9'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_10'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_10_URI'].value + '">' + cells['instrumentation_10'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_11'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_11_URI'].value + '">' + cells['instrumentation_11'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_12'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_12_URI'].value + '">' + cells['instrumentation_12'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_13'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_13_URI'].value + '">' + cells['instrumentation_13'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_14'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_14_URI'].value + '">' + cells['instrumentation_14'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_15'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_15_URI'].value + '">' + cells['instrumentation_15'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_16'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_16_URI'].value + '">' + cells['instrumentation_16'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_17'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_17_URI'].value + '">' + cells['instrumentation_17'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_18'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_18_URI'].value + '">' + cells['instrumentation_18'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_19'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_19_URI'].value + '">' + cells['instrumentation_19'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_20'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_20_URI'].value + '">' + cells['instrumentation_20'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_21'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_21_URI'].value + '">' + cells['instrumentation_21'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_22'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_22_URI'].value + '">' + cells['instrumentation_22'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_23'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_23_URI'].value + '">' + cells['instrumentation_23'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_24'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_24_URI'].value + '">' + cells['instrumentation_24'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_25'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_25_URI'].value + '">' + cells['instrumentation_25'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_26'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_26_URI'].value + '">' + cells['instrumentation_26'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_27'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_27_URI'].value + '">' + cells['instrumentation_27'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_28'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_28_URI'].value + '">' + cells['instrumentation_28'].value + '</genre>')}}
+{{if(isBlank(cells['instrumentation_29'].value), '', '<genre authority="lcmpt" valueURI="' + cells['instrumentation_29_URI'].value + '">' + cells['instrumentation_29'].value + '</genre>')}}
 
 {{if(isBlank(cells['title_relatedItem'].value), '', '<relatedItem type="otherVersion"><titleInfo><title>' + cells['title_relatedItem'].value + '</title></titleInfo>' + if(isBlank(cells['identifier_catalog'].value), '', '<identifier type="catalog">' + cells['identifier_catalog'].value + '</identifier>') + '</relatedItem>'))}}
 {{if(isBlank(cells['inscription'].value), '', '<note type="handwritten">' + cells['inscription'].value + '</note>') + if(isBlank(cells['inscription2'].value), '', '<note type="handwritten">' + cells['inscription2'].value + '</note>') + if(isBlank(cells['inscription3'].value), '', '<note type="handwritten">' + cells['inscription3'].value + '</note>') + if(isBlank(cells['inscription4'].value), '', '<note type="handwritten">' + cells['inscription4'].value + '</note>') + if(isBlank(cells['inscription5'].value), '', '<note type="handwritten">' + cells['inscription5'].value + '</note>') + if(isBlank(cells['inscription6'].value), '', '<note type="handwritten">' + cells['inscription6'].value + '</note>') + if(isBlank(cells['inscription7'].value), '', '<note type="handwritten">' + cells['inscription7'].value + '</note>') + if(isBlank(cells['inscription8'].value), '', '<note type="handwritten">' + cells['inscription8'].value + '</note>') + if(isBlank(cells['inscription9'].value), '', '<note type="handwritten">' + cells['inscription9'].value + '</note>') + if(isBlank(cells['inscription10'].value), '', '<note type="handwritten">' + cells['inscription10'].value + '</note>') + if(isBlank(cells['inscription11'].value), '', '<note type="handwritten">' + cells['inscription11'].value + '</note>') + if(isBlank(cells['inscription12'].value), '', '<note type="handwritten">' + cells['inscription12'].value + '</note>')}}
