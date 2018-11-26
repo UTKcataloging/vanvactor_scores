@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <identifier type="local">0012_003979_000488</identifier>
+    <titleInfo><title>Quintet for flute and strings</title></titleInfo>
+    <abstract>Bound ink score.</abstract>
+    <tableOfContents>Andante tranquillo - Larghetto - Allegro - Allegro molto</tableOfContents>
+    <note type="instrumentation">For flute, 2 violins, viola, and cello.</note>
+    <originInfo><dateIssued>1941</dateIssued><dateIssued encoding="edtf" keyDate="yes">1941</dateIssued><publisher>David Van Vactor</publisher></originInfo>
+    <name valueURI="http://id.loc.gov/authorities/names/n82001311"><namePart>Van Vactor, David, 1906-1994</namePart><role>
+        <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm></role></name>
+    <subject authority="lcsh"><topic>Quintets (Flute, violins (2), viola, cello)</topic></subject>
+    <subject authority="lcsh"><topic>Music</topic></subject>
+    <genre authority="lcgft">Chamber music</genre>
+    <genre authority="lcgft">Scores</genre>
+    <genre authority="lcmpt">flute</genre>
+    <genre authority="lcmpt">violin</genre>
+    <genre authority="lcmpt">viola</genre>
+    <genre authority="lcmpt">cello</genre>
+    <relatedItem type="otherVersion">
+        <titleInfo>
+            <title>Quintet for flute and strings</title>
+        </titleInfo>
+        <identifier type="catalog">M088</identifier>
+    </relatedItem>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores</form>
+        <internetMediaType>pdf</internetMediaType>
+    </physicalDescription>
+    <typeOfResource>notated music</typeOfResource>
+    <relatedItem displayLabel="Project" type="host">
+        <titleInfo>
+            <title>David Van Vactor Music Collection</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>David Van Vactor Papers</title>
+        </titleInfo><identifier>MS.1942</identifier>
+    </relatedItem>
+    <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+    <recordInfo>
+        <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+
