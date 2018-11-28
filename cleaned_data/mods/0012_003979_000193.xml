@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003979_000193</identifier>
+   <titleInfo>
+      <title>A little hymn: "behold the spirit of the Volunteer"</title>
+   </titleInfo>
+   <abstract>Photocopy of partial score. Instrumentation taken from complete score.</abstract>
+   <note type="instrumentation">For chorus, trumpet, trombone, and timpani.</note>
+   <originInfo>
+      <dateCreated>1948</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1948</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores</form>
+      <extent>1 page</extent>
+      <internetMediaType>pdf</internetMediaType>
+   </physicalDescription>
+   <note type="First line">Behold the spirit of the Volunteer who shapes the destinies of all who enter.</note>
+   <name valueURI="http://id.loc.gov/authorities/names/n82001311">
+      <namePart>Van Vactor, David, 1906-1994</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Johnston, Frances</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+      </role>
+   </name>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85024912">
+      <topic>Choruses, Secular (Mixed voices) with instrumental ensemble</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2008107384">
+      <topic>Music--Manuscripts--Facsimiles</topic>
+   </subject>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015143">chorus</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015748">trumpet</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015747">trombone</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015733">timpani</genre>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>A little hymn</title>
+      </titleInfo>
+      <identifier type="catalog">M057</identifier>
+   </relatedItem>
+   <typeOfResource>notated music</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Van Vactor Music Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Van Vactor Papers</title>
+      </titleInfo>
+      <identifier>MS.1942</identifier>
+      <location>
+         <url>https://n2t.net/ark:/87290/v8pz5703</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
