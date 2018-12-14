@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003979_000470</identifier>
+   <identifier type="pid">vanvactor:14227</identifier>
+   <titleInfo supplied="yes">
+      <title>Sketches for Music for Raven</title>
+   </titleInfo>
+   <abstract>Compilation of pencil sketches. All instrumentation is not defined.</abstract>
+   <note type="instrumentation">For voice.</note>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015791">voice</genre>
+   <originInfo>
+      <dateCreated qualifier="approximate">1906-1994</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   point="start"
+                   keyDate="yes">1906</dateCreated>
+      <dateCreated qualifier="approximate" encoding="edtf" point="end">1994</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
+      <extent>4 pages</extent>
+      <internetMediaType>pdf</internetMediaType>
+   </physicalDescription>
+   <name valueURI="http://id.loc.gov/authorities/names/n82001311">
+      <namePart>Van Vactor, David, 1906-1994</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n79011255">
+      <namePart>Lanier, Sidney, 1842-1881</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+      </role>
+   </name>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125040">
+      <topic>Songs</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85088803">
+      <topic>Music--Manuscripts</topic>
+   </subject>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026097">Excerpts</genre>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014027103">Songs</genre>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026956">Musical sketches</genre>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
+   <typeOfResource>notated music</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Van Vactor Music Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Van Vactor Papers</title>
+      </titleInfo>
+      <identifier>MS.1942</identifier>
+      <location>
+         <url>https://n2t.net/ark:/87290/v8pz5703</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

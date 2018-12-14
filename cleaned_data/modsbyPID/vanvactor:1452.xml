@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003979_000125</identifier>
+   <identifier type="pid">vanvactor:1452</identifier>
+   <titleInfo>
+      <title>The elements for winds and percussion</title>
+   </titleInfo>
+   <abstract>Published score.</abstract>
+   <tableOfContents>Terra (earth) - Aqua (water) - Aer (air) - Ignis (fire) - Ether (stratasphere)</tableOfContents>
+   <note type="instrumentation">For piccolo, 2 flutes, 2 oboes, 2 bassoons, contrabassoon, 3 clarinets, bass clarinet, contra-alto clarinet, 2 alto saxophones, tenor saxophone, baritone saxophone, 3 trumpets, 4 horns, 3 trombones, 2 baritones, tuba, timpani, and percussion.</note>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015553">piccolo</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015268">flute</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015507">oboe</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015074">bassoon</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015180">contrabassoon</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015154">clarinet</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015064">bass clarinet</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015175">contra-alto clarinet</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015015">alto saxophone</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015723">tenor saxophone</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015057">baritone saxophone</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015748">trumpet</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015342">horn</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015747">trombone</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015056">baritone horn</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015750">tuba</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015733">timpani</genre>
+   <genre authority="lcmpt"
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015540">percussion</genre>
+   <originInfo>
+      <dateIssued>1978</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1978</dateIssued>
+      <publisher>Roger Rhodes Music</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
+      <extent>80 pages</extent>
+      <internetMediaType>pdf</internetMediaType>
+   </physicalDescription>
+   <name valueURI="http://id.loc.gov/authorities/names/n82001311">
+      <namePart>Van Vactor, David, 1906-1994</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85011470">
+      <topic>Band music</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85066772">
+      <topic>Instrumental ensembles</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99001795">
+      <topic>Music</topic>
+   </subject>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026704">Chamber music</genre>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
+   <relatedItem type="otherVersion">
+      <titleInfo>
+         <title>The elements for winds and percussion</title>
+      </titleInfo>
+      <identifier type="catalog">M036</identifier>
+   </relatedItem>
+   <note type="handwritten">Royal Hawaiian Jan. 20, 1978.</note>
+   <note type="handwritten">1-21-78 Royal Hawaiian</note>
+   <note type="handwritten">Jan. 31, 1978. S. Bedford St. L.A.</note>
+   <note type="handwritten">Apr. 14, 1978.</note>
+   <note type="handwritten">5-28,'78 Knoxv.</note>
+   <typeOfResource>notated music</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>David Van Vactor Music Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>David Van Vactor Papers</title>
+      </titleInfo>
+      <identifier>MS.1942</identifier>
+      <location>
+         <url>https://n2t.net/ark:/87290/v8pz5703</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
