@@ -12,11 +12,9 @@
 ## Row Template
 
 ```
-remember to add PID once all are ingested.
-<identifier type="pid">{{cells['PID'].value}}</identifier>
-
 <mods>
 <identifier type="local">{{cells["identifier_adminDB"].value}}</identifier>
+{{if(isBlank(cells['PID'].value), '', '<identifier type="pid">' + cells["PID"].value + '</identifier>')}}
 {{if(isBlank(cells['title_relatedItem'].value), if(isBlank(cells['identifier_catalog'].value), '', '<identifier type="catalog">' + cells['identifier_catalog'].value + '</identifier>'), '')}}
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>') + if(isBlank(cells['title_alternative'].value), '', '<titleInfo type="alternative"><title>' + cells['title_alternative'].value + '</title></titleInfo>') + if(isBlank(cells['title_alternative_2'].value), '', '<titleInfo type="alternative"><title>' + cells['title_alternative_2'].value + '</title></titleInfo>') + if(isBlank(cells['title_supplied'].value), '', '<titleInfo supplied="yes"><title>' + cells['title_supplied'].value + '</title></titleInfo>'))}}
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
