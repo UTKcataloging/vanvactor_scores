@@ -4,15 +4,13 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_003979_000220</identifier>
-   <identifier type="pid">vanvactor:3666</identifier>
+   <identifier type="local">0012_003979_000226</identifier>
+   <identifier type="pid">vanvactor:9235</identifier>
    <titleInfo supplied="yes">
-      <title>Sketches for Music for woodwinds</title>
+      <title>Quintet no. 3 from Music for woodwinds. Tempo di gavotta.</title>
    </titleInfo>
-   <abstract>Compilation of pencil sketches. Associated name and phone number inscribed in sketches.</abstract>
-   <note type="instrumentation">For piccolo, flute, oboe, clarinet, horn, and bassoon.</note>
-   <genre authority="lcmpt"
-          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015553">piccolo</genre>
+   <abstract>Ink parts and ink score with pencil markings.</abstract>
+   <note type="instrumentation">For flute, oboe, clarinet, horn, and bassoon.</note>
    <genre authority="lcmpt"
           valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015268">flute</genre>
    <genre authority="lcmpt"
@@ -24,16 +22,16 @@
    <genre authority="lcmpt"
           valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015074">bassoon</genre>
    <originInfo>
-      <dateCreated qualifier="approximate">1966-1969</dateCreated>
+      <dateCreated qualifier="approximate">1966-1967</dateCreated>
       <dateCreated qualifier="approximate"
                    encoding="edtf"
                    point="start"
                    keyDate="yes">1966</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" point="end">1969</dateCreated>
+      <dateCreated qualifier="approximate" encoding="edtf" point="end">1967</dateCreated>
    </originInfo>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
-      <extent>42 pages</extent>
+      <extent>19 pages</extent>
       <internetMediaType>pdf</internetMediaType>
    </physicalDescription>
    <name valueURI="http://id.loc.gov/authorities/names/n82001311">
@@ -44,8 +42,8 @@
       </role>
    </name>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85148008">
-      <topic>Woodwind trios</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146888">
+      <topic>Wind quintets (Bassoon, clarinet, flute, horn, oboe)</topic>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85088803">
@@ -54,23 +52,14 @@
    <genre authority="lcgft"
           valueURI="http://id.loc.gov/authorities/genreForms/gf2014026704">Chamber music</genre>
    <genre authority="lcgft"
-          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026097">Excerpts</genre>
-   <genre authority="lcgft"
-          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026956">Musical sketches</genre>
-   <genre authority="lcgft"
-          valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026986">Parts (Music)</genre>
    <relatedItem type="otherVersion">
       <titleInfo>
          <title>Music for woodwinds</title>
       </titleInfo>
       <identifier type="catalog">M063</identifier>
    </relatedItem>
-   <note type="handwritten">Dictation. Fri July 2.</note>
-   <note type="handwritten">Aug. 6., 1966.</note>
-   <note type="handwritten">July 14, '66</note>
-   <note type="handwritten">July 4, 1966 Knoxv.</note>
-   <note type="handwritten">Sun. June 15, 1969 Vaterstag</note>
-   <note type="handwritten">Atlanta June 7, 1969</note>
+   <note type="handwritten">DeVine Chicago</note>
    <typeOfResource>notated music</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>

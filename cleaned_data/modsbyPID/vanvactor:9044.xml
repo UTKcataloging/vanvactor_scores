@@ -4,32 +4,28 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_003979_000218</identifier>
-   <identifier type="pid">vanvactor:3636</identifier>
-   <titleInfo supplied="yes">
-      <title>Duo nos. 4, 7 from Music for woodwinds</title>
+   <identifier type="local">0012_003979_000195</identifier>
+   <identifier type="pid">vanvactor:9044</identifier>
+   <titleInfo>
+      <title>"London"</title>
    </titleInfo>
-   <abstract>Vellum scores.</abstract>
-   <note type="instrumentation">For clarinet, horn, and bassoon.</note>
+   <abstract>Pencil score with ink markings and ink score.</abstract>
+   <note type="instrumentation">For voice and piano.</note>
    <genre authority="lcmpt"
-          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015154">clarinet</genre>
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015791">voice</genre>
    <genre authority="lcmpt"
-          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015342">horn</genre>
-   <genre authority="lcmpt"
-          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015074">bassoon</genre>
+          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015550">piano</genre>
    <originInfo>
-      <dateCreated qualifier="approximate">1966-1967</dateCreated>
-      <dateCreated qualifier="approximate"
-                   encoding="edtf"
-                   point="start"
-                   keyDate="yes">1966</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" point="end">1967</dateCreated>
+      <dateCreated>1958-1962</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1958</dateCreated>
+      <dateCreated encoding="edtf" point="end">1962</dateCreated>
    </originInfo>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
-      <extent>4 pages</extent>
+      <extent>6 pages</extent>
       <internetMediaType>pdf</internetMediaType>
    </physicalDescription>
+   <note type="First line">I wander through each dirty street near where the dirty Thames does flow.</note>
    <name valueURI="http://id.loc.gov/authorities/names/n82001311">
       <namePart>Van Vactor, David, 1906-1994</namePart>
       <role>
@@ -37,28 +33,39 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
       </role>
    </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n78095331">
+      <namePart>Blake, William, 1757-1827</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+      </role>
+   </name>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85012209">
-      <topic>Bassoon and horn music</topic>
-   </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85026594">
-      <topic>Clarinet and horn music</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125149">
+      <topic>Songs (High voice) with piano</topic>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85088803">
       <topic>Music--Manuscripts</topic>
    </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79005665">
+      <geographic>London (England)</geographic>
+   </subject>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014027103">Songs</genre>
    <genre authority="lcgft"
           valueURI="http://id.loc.gov/authorities/genreForms/gf2014026704">Chamber music</genre>
    <genre authority="lcgft"
           valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
    <relatedItem type="otherVersion">
       <titleInfo>
-         <title>Music for woodwinds</title>
+         <title>London</title>
       </titleInfo>
-      <identifier type="catalog">M063</identifier>
+      <identifier type="catalog">M058</identifier>
    </relatedItem>
+   <note type="handwritten">June 7, 1958 F/M.</note>
    <typeOfResource>notated music</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>

@@ -2407,7 +2407,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Chaconne for string orchestra</title></titleInfo><identifier type="catalog">M012</identifier></relatedItem>
-<note type="handwritten">Thu Mar 01 00:00:00 EST 1928</note>
+<note type="handwritten">March 1928</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -9505,7 +9505,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>The elements for winds and percussion</title></titleInfo><identifier type="catalog">M036</identifier></relatedItem>
-<note type="handwritten">Jan. 23. 1977. L. A. So. Bedford St.</note><note type="handwritten">July 31, Aug. 8.</note><note type="handwritten">Tue Nov 15 00:00:00 EST 1977</note>
+<note type="handwritten">Jan. 23. 1977. L. A. So. Bedford St.</note><note type="handwritten">July 31, Aug. 8.</note><note type="handwritten">Nov. 15, 77</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -9661,7 +9661,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Episodes - Jesus Christ</title></titleInfo><identifier type="catalog">M037</identifier></relatedItem>
-<note type="handwritten">D.V.V.</note><note type="handwritten">Wed Oct 27 00:00:00 EDT 1976</note>
+<note type="handwritten">D.V.V.</note><note type="handwritten">10-27-76</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -16291,7 +16291,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Music for woodwinds</title></titleInfo><identifier type="catalog">M063</identifier></relatedItem>
-<note type="handwritten">Wed Feb 02 00:00:00 EST 1966</note><note type="handwritten">Sat Feb 12 00:00:00 EST 1966</note><note type="handwritten">Tues. June 28, '66</note>
+<note type="handwritten">Feb. 2, 1966</note><note type="handwritten">Feb. 12, 1966</note><note type="handwritten">Tues. June 28, '66</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -16603,7 +16603,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Music for woodwinds</title></titleInfo><identifier type="catalog">M063</identifier></relatedItem>
-<note type="handwritten">(Anita's birthday) Aug. 17, 1966 score</note><note type="handwritten">July 4, 1966. Knoxv.</note><note type="handwritten">Score July 22, 1966</note><note type="handwritten">Thu Jul 14 00:00:00 EDT 1966</note>
+<note type="handwritten">(Anita's birthday) Aug. 17, 1966 score</note><note type="handwritten">July 4, 1966. Knoxv.</note><note type="handwritten">Score July 22, 1966</note><note type="handwritten">July 14, 1966</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -17161,7 +17161,7 @@
 
 <mods>
 <identifier type="local">0012_003979_000227</identifier>
-<identifier type="pid">vanvactor:3822</identifier>
+<identifier type="pid">vanvactor:9208</identifier>
 
 <titleInfo supplied="yes"><title>Quintet nos. 1-4 from Music for woodwinds</title></titleInfo>
 <abstract>Ink parts with pencil markings. Not all parts are present.</abstract>
@@ -24325,7 +24325,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Set of five</title></titleInfo><identifier type="catalog">M094</identifier></relatedItem>
-<note type="handwritten">Mon Jul 02 00:00:00 EDT 1973</note><note type="handwritten">Mon Jul 16 00:00:00 EDT 1973</note><note type="handwritten">Sun Aug 26 00:00:00 EDT 1973</note>
+<note type="handwritten">7-2-73</note><note type="handwritten">7-16-73</note><note type="handwritten">8-26-73</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -24637,7 +24637,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Sewanee suite no. 1</title></titleInfo><identifier type="catalog">M095</identifier></relatedItem>
-<note type="handwritten">July 4, 1963 Knoxv.</note><note type="handwritten">June 27, '63 Knoxv.</note><note type="handwritten">Sat Jul 06 00:00:00 EDT 1963</note><note type="handwritten">Fri Oct 11 00:00:00 EDT 1963</note>
+<note type="handwritten">July 4, 1963 Knoxv.</note><note type="handwritten">June 27, '63 Knoxv.</note><note type="handwritten">July 6. 1963</note><note type="handwritten">Oct. 11. 1963</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -26431,7 +26431,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 
-<note type="handwritten">Mon Mar 22 00:00:00 EST 1976</note>
+<note type="handwritten">3-22-76</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -29941,7 +29941,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Symphony no. 5</title></titleInfo><identifier type="catalog">M117</identifier></relatedItem>
-<note type="handwritten">Thu May 22 00:00:00 EDT 1975</note>
+<note type="handwritten">May 22, 1975</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -34699,7 +34699,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Duettino for two flutes</title></titleInfo></relatedItem>
-<note type="handwritten">Sat Aug 24 00:00:00 EDT 1974</note>
+<note type="handwritten">Aug. 24, 1974</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>
@@ -35869,7 +35869,7 @@
 <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
 
 <relatedItem type="otherVersion"><titleInfo><title>Episodes - Jesus Christ</title></titleInfo><identifier type="catalog">M037</identifier></relatedItem>
-<note type="handwritten">Wed Oct 27 00:00:00 EDT 1976</note>
+<note type="handwritten">10-27-76</note>
 
 <typeOfResource>notated music</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>David Van Vactor Music Collection</title></titleInfo></relatedItem>

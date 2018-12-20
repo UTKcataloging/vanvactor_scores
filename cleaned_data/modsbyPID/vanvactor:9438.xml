@@ -4,19 +4,17 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_003979_000215</identifier>
-   <identifier type="pid">vanvactor:3597</identifier>
+   <identifier type="local">0012_003979_000217</identifier>
+   <identifier type="pid">vanvactor:9438</identifier>
    <titleInfo supplied="yes">
-      <title>Duos nos. 1-10 from Music for woodwinds</title>
+      <title>Duo nos. 3-5, 8 from Music for woodwinds</title>
    </titleInfo>
-   <abstract>Pencil scores with pen markings.</abstract>
-   <note type="instrumentation">For piccolo, flute, oboe, clarinet, horn, and bassoon.</note>
+   <abstract>Ink score with pencil markings.</abstract>
+   <note type="instrumentation">For piccolo, flute, clarinet, horn, and bassoon.</note>
    <genre authority="lcmpt"
           valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015553">piccolo</genre>
    <genre authority="lcmpt"
           valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015268">flute</genre>
-   <genre authority="lcmpt"
-          valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015507">oboe</genre>
    <genre authority="lcmpt"
           valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015154">clarinet</genre>
    <genre authority="lcmpt"
@@ -33,7 +31,7 @@
    </originInfo>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores (documents for music)</form>
-      <extent>21 pages</extent>
+      <extent>7 pages</extent>
       <internetMediaType>pdf</internetMediaType>
    </physicalDescription>
    <name valueURI="http://id.loc.gov/authorities/names/n82001311">
@@ -61,9 +59,6 @@
       </titleInfo>
       <identifier type="catalog">M063</identifier>
    </relatedItem>
-   <note type="handwritten">Wed Feb 02 00:00:00 EST 1966</note>
-   <note type="handwritten">Sat Feb 12 00:00:00 EST 1966</note>
-   <note type="handwritten">Tues. June 28, '66</note>
    <typeOfResource>notated music</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
