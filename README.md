@@ -10,6 +10,7 @@ Metadata for the David Van Vactor Music Collection (scores).
 
 ```
 |-- cleaned_data
+    |-- collection_record.xml
     |-- modsxml
         |-- batch1    
             |-- 0012_003979_000001_000124 to 0012_003979_000001_000160
