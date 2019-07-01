@@ -66,26 +66,26 @@
       </titleInfo>
       <identifier type="catalog">M050</identifier>
    </relatedItem>
-   <typeOfResource/>
+   <typeOfResource>notated music</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
-         <title/>
+         <title>David Van Vactor Music Collection</title>
       </titleInfo>
    </relatedItem>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
-         <title/>
+         <title>David Van Vactor Papers</title>
       </titleInfo>
-      <identifier/>
+      <identifier>MS.1942</identifier>
       <location>
          <url>https://n2t.net/ark:/87290/v8pz5703</url>
       </location>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633"/>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
    <recordInfo>
-      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088"/>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
-   <accessCondition type="use and reproduction" xlink:href=""/>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
