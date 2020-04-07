@@ -65,7 +65,7 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
       </role>
    </name>
-   <name authority="naf" valueURI="n79079172">
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79079172">
       <namePart>Darío, Rubén, 1867-1916</namePart>
       <role>
          <roleTerm authority="marcrelator"

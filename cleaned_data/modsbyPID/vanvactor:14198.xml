@@ -42,7 +42,7 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
       </role>
    </name>
-   <name authority="naf" valueURI="n79056429">
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79056429">
       <namePart>Longfellow, Henry Wadsworth, 1807-1882</namePart>
       <role>
          <roleTerm authority="marcrelator"

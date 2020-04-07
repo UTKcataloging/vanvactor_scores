@@ -45,7 +45,7 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
       </role>
    </name>
-   <name authority="naf" valueURI="n87870746">
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n87870746">
       <namePart>Speyer, Leonora, 1872-1956</namePart>
       <role>
          <roleTerm authority="marcrelator"
