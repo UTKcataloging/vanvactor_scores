@@ -78,5 +78,5 @@
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
-   <accessCondition type="use and reproduction" xlink:href="0">In Copyright</accessCondition>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
